@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "commander": "^14.0.2",
+    "nanoid": "^5.1.6",
+    "node": "^25.1.0"
+  },
+  "name": "goit-node-cli",
+  "description": "Master of Science (Neoversity): Fullstack - Homework №1",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
